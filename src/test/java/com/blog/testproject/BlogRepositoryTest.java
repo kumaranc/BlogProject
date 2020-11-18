@@ -25,7 +25,7 @@ public class BlogRepositoryTest {
         Blog blog = new Blog();
         blog.setBlogContent("it is for testing blog123");
 
-//        Comment comment = new Comment();
+        Comment comment = new Comment();
 //        comment.setComments("for testing comment");
 //        blog.getComments().add(comment);
 
